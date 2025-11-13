@@ -1,0 +1,5 @@
+{
+  "name": "Checklist PRO",
+  "description": "A modern and responsive checklist application built with React, TypeScript, and Tailwind CSS. Users can add, edit, delete, and mark tasks as complete.",
+  "requestFramePermissions": []
+}
